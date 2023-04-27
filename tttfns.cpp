@@ -21,7 +21,7 @@ void greeting() {
     std::cout << "\n";
 }
 
-void display_table() {1
+void display_table() {
     
     std::cout << "\n";
     
