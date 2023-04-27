@@ -234,8 +234,6 @@ char winner() {
     
     return 'D';
 }
-//void check_board(bool tablefilled) {
-  //  int x = 0;
-    //if (x ==)
+
 
     
