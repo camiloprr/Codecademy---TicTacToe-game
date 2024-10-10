@@ -2,8 +2,6 @@
 #include <vector>
 #include "ttt.hpp"
 
-using namespace std;
-
 int main()
 {
    int turns_taken = 0;
